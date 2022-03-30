@@ -12,11 +12,11 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_18.100C Real Analysis_](/courses/18-100c-real-analysis-fall-2012/)
+[_18.100C Real Analysis_](/courses/18-100c-real-analysis-fall-2012)
 
-[_18.06SC Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011/)
+[_18.06SC Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011)
 
-[_18.05 Introduction to Probability and Statistics_](/courses/18-05-introduction-to-probability-and-statistics-spring-2014/)
+[_18.05 Introduction to Probability and Statistics_](/courses/18-05-introduction-to-probability-and-statistics-spring-2014)
 
 Description
 -----------
